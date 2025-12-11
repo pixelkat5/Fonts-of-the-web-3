@@ -1,2 +1,3 @@
-# Fonts-of-the-web-3
-I really like graphic design and products by ATLUS and P-Studio. For me, P-Studio is a gateway to seeing what the world of Japanese graphic design is like. If you haven't ever seen what the Japanese internet looks like, look up a comparison Its rather charming in a way. ANYWAYS this is just gonna be where I put font files from things I come across.
+|           ***ATLUS C, Source unknown***         |       ***MyFonts (Monotype c)***                |                  ***Notes***     |
+|:---------------------:|:---------------------:|:---------------------:|
+| <img width="959" height="540" alt="image" src="https://github.com/user-attachments/assets/312cbd54-37dd-44f3-a5ca-d7937cafb5df" /> | <img width="559" height="516" alt="image" src="https://github.com/user-attachments/assets/9eb2f1da-552d-4c7d-a44f-32790f818f0f" /> | <a href="https://www.myfonts.com/collections/basilia-font-urw">Basilia</a>   <br><br><hr><br> <a href="https://fontsgeek.com/fonts/basilia-t-regular">Download</a> |
