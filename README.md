@@ -3,9 +3,7 @@
 > 
 > I WANT TO BREAK DOWN THE WALLS THAT RESTRAIN SMALL STUDIOS AND GRAPHIC DESIGNERS ! ! !
 
-Because of this I plan on running a script to automatically scrape and download fonts from lets.fontworks.co.jp/fonts
-There are 173 pages of fonts, with 20 each running out to be ***3460 font families.***
-
+So because of the amount of fonts/font folders in the main font folder, the folders have been truncated. Sadly I dont know of a way around this.
 
 <br><br>
 
