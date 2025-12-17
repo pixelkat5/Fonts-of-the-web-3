@@ -5,6 +5,9 @@
 
 So because of the amount of fonts/font folders in the main font folder, the folders have been truncated. Sadly I dont know of a way around this.
 
+Due to the 1000 file (listed) limit on viewing files via the website, use the search feature to find what you're looking for. The keybind should be / (slash)
+
+
 <br><br>
 
 |           ***ATLUS C, Source unknown***         |       ***MyFonts (Monotype c)***                |                  ***Notes***     |
